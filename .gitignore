@@ -1,2 +1,5 @@
 .venv/
 assignments/.ipynb_checkpoints/
+project/data
+.ipynb_checkpoints/
+project/.ipynb_checkpoints/
