@@ -2,3 +2,5 @@ jupyter
 pandas
 matplotlib
 seaborn
+tqdm
+requests
